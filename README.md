@@ -157,14 +157,4 @@ Die App enthält einen Demo-Modus zum Wechseln zwischen:
 
 Der Wechsel erfolgt über den Button oben rechts in der Ecke.
 
-## 📝 Lizenz
 
-Dieses Projekt wurde im Rahmen des MSE-Projekts entwickelt.
-
-## 🤝 Contributing
-
-Für Verbesserungsvorschläge und Bug-Reports bitte Issues erstellen.
-
----
-
-**Entwickelt mit ❤️ für die Radio-Community**
